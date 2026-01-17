@@ -1,5 +1,5 @@
-setwd("C:/Users/piter/Documents/GithubProject/customer-churn-analysis/data")
-getwd()
+# setwd("C:/Users/your_username/your_project_path/data")  # ← insert your path here if needed
+# getwd()
 
 install.packages(c("survival", "survminer", "ggplot2"))
 library(survival)

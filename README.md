@@ -172,7 +172,7 @@ To understand why customers churn, quantify the influence of behavioral and demo
 
 
 
--Develop targeted retention programs for low‑spend and low‑engagement customers.
+-Develop targeted retention programs for low spending and low engagement customers.
 
 
 
