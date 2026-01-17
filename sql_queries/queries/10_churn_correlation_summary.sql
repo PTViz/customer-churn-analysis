@@ -1,7 +1,7 @@
 -- File: 10_churn_correlation_summary.sql
 -- Purpose: Create a summary table showing how key customer attributes correlate with churn.
 -- Description: Aggregates churn rates across major variables (Subscription Type, Contract Length,
---              Support Calls, Payment Delay) to provide a high-level overview of churn drivers.
+--              Support Calls, Payment Delay) to provide a broad overview of churn drivers.
 
 SELECT 
     Subscription_Type AS Category,
