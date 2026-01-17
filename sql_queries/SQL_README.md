@@ -104,7 +104,7 @@ Customers spending under 500 show only churned records in the dataset, suggestin
 
 \*\*Insight:\*\*
 
- 
+
 
 For customers with recent interactions (1–15 days), churn and retention stay fairly balanced. But after around 16 days without contact, the pattern flips: churn becomes much higher than retention and stays that way through day 30. Longer gaps in engagement clearly increase churn risk, and customers who haven’t interacted in over two weeks are far more likely to leave.
 
