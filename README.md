@@ -2,7 +2,7 @@
 
 
 
-This project delivers a comprehensive churn analysis using SQL, Python, R, and Power BI. The goal is to identify the strongest churn drivers, quantify their impact, and provide clear business recommendations for improving customer retention.
+This project provides a comprehensive churn analysis using SQL, Python, R, and Power BI. The goal is to identify the strongest churn drivers, quantify their impact, and provide clear business recommendations for improving customer retention.
 
 
 
