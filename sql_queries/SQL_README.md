@@ -2,7 +2,7 @@
 
 
 
-The analysis shows that customer churn is driven mainly by short contract lengths, frequent support calls, long payment delays, low engagement, and low total spend. These behaviours consistently appear in the data as the strongest predictors of whether a customer will leave. Subscription type and age also influence churn, although their impact is smaller. Overall churn is high, which indicates a significant retention challenge. **The findings point to clear opportunities for improvement, particularly in customer support, proactive outreach to disengaged customers, and incentives that encourage longer and higher‑value relationships.**
+The analysis shows that customer churn is driven mainly by short contract lengths, frequent support calls, long payment delays, low engagement, and low total spend. These behaviours consistently appear in the data as the strongest predictors of whether a customer will leave. Subscription type and age also influence churn, although their impact is smaller. Overall churn is high, which indicates a significant retention challenge. **The findings point to clear opportunities for improvement, particularly in customer support, proactive outreach to disengaged customers, and incentives that encourage longer and more valuable relationships.**
 
 
 
@@ -82,7 +82,7 @@ For payment delays between 0 and 20 days, churn and retention stay fairly balanc
 
 
 
-Annual and Quarterly customers show a healthier balance between staying and churning, with slightly more retained than churned. Monthly customers, however, are overwhelmingly churned, suggesting that short‑term contracts attract customers who are less committed and more likely to leave. Contract length is a clear churn signal, with longer commitments linked to better retention.
+Annual and Quarterly customers show a healthier balance between staying and churning, with slightly more retained than churned. Monthly customers, however, are overwhelmingly churned, suggesting that brief contracts attract customers who are less committed and more likely to leave. Contract length is a clear churn signal, with longer commitments linked to better retention.
 
 
 
@@ -94,7 +94,7 @@ Annual and Quarterly customers show a healthier balance between staying and chur
 
 
 
-Customers spending under 500 show only churned records in the dataset, suggesting that low‑spend users are far more likely to leave. The 500+ group is the only segment with a meaningful number of retained customers, although churn is still high. Overall, higher‑spending customers are more likely to stay, while low‑value customers churn almost entirely.
+Customers spending under 500 show only churned records in the dataset, suggesting that low spending users are far more likely to leave. The 500+ group is the only segment with a meaningful number of retained customers, although churn is still high. Overall, high spending customers are more likely to stay, while less valuable customers churn almost entirely.
 
 
 
