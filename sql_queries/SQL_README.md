@@ -32,7 +32,7 @@ Out of 440,833 customers, 249,999 churned, a churn rate of 56.71%. More than hal
 
 \*\*Insight:\*\*
 
- 
+
 
 Basic customers churn the most in absolute numbers, with over 23,000 more churned users than retained ones. However, the churn rates across Basic, Standard, and Premium are all close to each other, meaning subscription tier is not a strong predictor of churn compared to other factors.
 
